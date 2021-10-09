@@ -1,0 +1,1 @@
+Short example of KotlinJs-based webapp 
