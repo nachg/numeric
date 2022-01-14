@@ -10,4 +10,6 @@ class TestClient {
             CalcAlg.sumAllDigits("19")
         )
     }
+
+
 } 
